@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica02</string>
+    <string name="texto1">Por favor presiona el botón para pasar a la siguiente pantalla</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="nombre">Alex Antonio Terrones Pacheco</string>
+    <string name="texto2">Felicidades se avanzo a otra activity</string>
+</resources>

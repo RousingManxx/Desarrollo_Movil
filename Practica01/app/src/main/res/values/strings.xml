@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practica01</string>
+    <string name="hola_mundo">Hola mundo desde android studio, soy Alex</string>
+</resources>
